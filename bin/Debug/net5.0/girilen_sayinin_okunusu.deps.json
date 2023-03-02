@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "girilen_sayinin_okunusu/1.0.0": {
+        "runtime": {
+          "girilen_sayinin_okunusu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "girilen_sayinin_okunusu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

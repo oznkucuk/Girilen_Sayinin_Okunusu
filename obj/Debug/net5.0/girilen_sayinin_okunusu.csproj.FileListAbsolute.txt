@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\bin\Debug\net5.0\girilen_sayinin_okunusu.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\bin\Debug\net5.0\girilen_sayinin_okunusu.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\bin\Debug\net5.0\girilen_sayinin_okunusu.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\bin\Debug\net5.0\girilen_sayinin_okunusu.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\bin\Debug\net5.0\girilen_sayinin_okunusu.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\bin\Debug\net5.0\girilen_sayinin_okunusu.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\refint\girilen_sayinin_okunusu.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\girilen_sayinin_okunusu.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\girilen_sayinin_okunusu\obj\Debug\net5.0\ref\girilen_sayinin_okunusu.dll
